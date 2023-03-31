@@ -4,7 +4,7 @@
   </h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGM2NmE4N2Q2NjVlYTdmNTA5ZDRiNmZhZjY3ZTIzMGYyOGY1NmJiMiZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif" width="400"/>
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/max-rohivskyi/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href = "mailto: maxrogivsky@gmail.com">
@@ -23,7 +23,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I am currently working on many different things to continue improving my skills and exploring new technologies.
 - :seedling: I am currently learning everything related to the world of web development.
 - :zap: In my free time, I read differents tech articles and do a little bit yoga.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-maxrohivskyi-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/max-rohivskyi)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-maxrohivskyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/max-rohivskyi/)
 
 ---
 
